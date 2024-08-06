@@ -7,8 +7,8 @@ title: Hexo
 subtitle: ""
 description: ""
 keywords:
-author: John Doe
-language: en
+author: Christin chen
+language: zh-CN
 timezone: ""
 
 # URL
@@ -102,5 +102,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/ChristianCHEN15/ChristianCHEN15.github.io
+  repo: https://github.com/ChristianCHEN15/ChristianCHEN15.github.io.git
   branch: main
